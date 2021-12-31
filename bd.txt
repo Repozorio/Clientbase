@@ -3,5 +3,6 @@ pypkoof:real
 allllllexander:real
 Roflekss:real
 mollerov:real
+zinjer:fake
 
 grimson:real
