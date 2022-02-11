@@ -7,7 +7,6 @@ zinjer:fake
 
 grimson:real
 
-rubenchik:real
 karnobes:real
 franchesk_0:real
 Aaddobepg:real
